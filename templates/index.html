@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCU Movie Advisor</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+   <div class="background">
+   </div>
+
+   <div class="centered">
+        <div class="info_box">
+            <h2>MCU Movie Advisor</h2>
+            <img id="info_img" src="{{ background_image_url }}" width="180px" height="300px"></img>
+            <p class="image_caption">Data by tmdb.org</p>
+            <p class="credits">Made by Script-hpp</p>
+
+            <div class="info_movie">
+                <h3 id="title">{{title}}</h3>
+
+                <p id="overview">{{overview}}</p>
+
+                <p id="user_score">User Score: {{user_score}}, Release: {{date}}</p>
+
+            </div>
+
+        </div>
+   </div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+
+body, html{
+    height: 100%;
+    overflow-y: hidden;
+    margin: 0;
+}
+.background {
+    background-image: url({{ background_image_url }});
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    filter: blur(8px);
+     -webkit-filter: blur(8px);
+  }
+
+.centered {
+    font-family: "Poppins", sans-serif;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.info_box
+{
+    background-color: white;
+    width: 13em;
+    height: 8em;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+#info_img {
+    border-radius: 15px;
+    position: absolute; /* Adjusted position */
+    left: 20px; /* Adjusted margin */
+    top: 100px; /* Adjusted margin */
+}
+
+#title {
+    color: black;
+    font-size: 20px;
+    width: 250px; /* Increased width */
+    padding-right: 30px; /* Adjusted padding */
+    height: 15px;
+    padding-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#overview
+{
+    color: black;
+    padding-right: 10px;
+    font-size: 13px;
+    text-align: justify;
+}
+
+#user_score
+{
+    color: black;
+    padding-right: 10px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+
+.image_caption {    
+    font-size: 12px;
+    position: absolute;
+    bottom: -15px;
+    left: 16%;
+    transform: translateX(-50%);
+    font-size: 21px;
+    color: grey;
+}
+
+.credits {    
+    font-size: 12px;
+    position: absolute;
+    bottom: -15px;
+    right: -60px;
+    transform: translateX(-50%);
+    font-size: 21px;
+    color: rgb(19, 19, 19);
+}
+
+.info_movie {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    position: absolute;
+    left: 230px;
+    top: 120px;
+    width: 350px;
+    height: 270px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+
+    box-sizing: border-box; /* Include padding in the width calculation */
+    /* Optionally, you can also set a maximum width to prevent it from expanding too much */
+    max-width: 100%; /* Adjust this value as needed */
+    overflow: hidden; /* Hide overflow content if it exceeds the width */
+}
+
+
+h2
+{
+    font-size: 40px;
+    color: black;
+}

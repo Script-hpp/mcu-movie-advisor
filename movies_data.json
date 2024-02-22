@@ -1,0 +1,534 @@
+[
+    {
+        "original_title": "The Marvels",
+        "poster_path": "https://image.tmdb.org/t/p/original//9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "release_date": "2023-11-08",
+        "overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol\u2019s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+        "vote_average": 6.275
+    },
+    {
+        "original_title": "Deadpool & Wolverine",
+        "poster_path": "https://image.tmdb.org/t/p/original//uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+        "release_date": "2024-07-24",
+        "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "poster_path": "https://image.tmdb.org/t/p/original//r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+        "release_date": "2023-05-03",
+        "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+        "vote_average": 7.981
+    },
+    {
+        "original_title": "Spider-Man: No Way Home",
+        "poster_path": "https://image.tmdb.org/t/p/original//5weKu49pzJCt06OPpjvT80efnQj.jpg",
+        "release_date": "2021-12-15",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "vote_average": 7.975
+    },
+    {
+        "original_title": "Avengers: Infinity War",
+        "poster_path": "https://image.tmdb.org/t/p/original//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+        "release_date": "2018-04-25",
+        "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "vote_average": 8.25
+    },
+    {
+        "original_title": "Black Panther: Wakanda Forever",
+        "poster_path": "https://image.tmdb.org/t/p/original//sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+        "release_date": "2022-11-09",
+        "overview": "Queen Ramonda, Shuri, M\u2019Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T\u2019Challa\u2019s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "vote_average": 7.146
+    },
+    {
+        "original_title": "Ant-Man and the Wasp: Quantumania",
+        "poster_path": "https://image.tmdb.org/t/p/original//qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+        "release_date": "2023-02-15",
+        "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+        "vote_average": 6.366
+    },
+    {
+        "original_title": "Avengers: Endgame",
+        "poster_path": "https://image.tmdb.org/t/p/original//or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "release_date": "2019-04-24",
+        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "vote_average": 8.258
+    },
+    {
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "poster_path": "https://image.tmdb.org/t/p/original//9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+        "release_date": "2022-05-04",
+        "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+        "vote_average": 7.322
+    },
+    {
+        "original_title": "Shang-Chi and the Legend of the Ten Rings",
+        "poster_path": "https://image.tmdb.org/t/p/original//1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+        "release_date": "2021-09-01",
+        "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+        "vote_average": 7.567
+    },
+    {
+        "original_title": "Thor: Love and Thunder",
+        "poster_path": "https://image.tmdb.org/t/p/original//pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "release_date": "2022-07-06",
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher\u2019s vengeance and stop him before it\u2019s too late.",
+        "vote_average": 6.482
+    },
+    {
+        "original_title": "Thor: Ragnarok",
+        "poster_path": "https://image.tmdb.org/t/p/original//rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+        "release_date": "2017-10-02",
+        "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+        "vote_average": 7.594
+    },
+    {
+        "original_title": "The Avengers",
+        "poster_path": "https://image.tmdb.org/t/p/original//RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "release_date": "2012-04-25",
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "vote_average": 7.712
+    },
+    {
+        "original_title": "Iron Man",
+        "poster_path": "https://image.tmdb.org/t/p/original//78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+        "release_date": "2008-04-30",
+        "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+        "vote_average": 7.642
+    },
+    {
+        "original_title": "Captain Marvel",
+        "poster_path": "https://image.tmdb.org/t/p/original//AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+        "release_date": "2019-03-06",
+        "overview": "The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+        "vote_average": 6.829
+    },
+    {
+        "original_title": "Iron Man 2",
+        "poster_path": "https://image.tmdb.org/t/p/original//6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+        "release_date": "2010-04-28",
+        "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.",
+        "vote_average": 6.838
+    },
+    {
+        "original_title": "Spider-Man: Homecoming",
+        "poster_path": "https://image.tmdb.org/t/p/original//c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+        "release_date": "2017-07-05",
+        "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+        "vote_average": 7.34
+    },
+    {
+        "original_title": "Spider-Man: Far From Home",
+        "poster_path": "https://image.tmdb.org/t/p/original//4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+        "release_date": "2019-06-28",
+        "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+        "vote_average": 7.436
+    },
+    {
+        "original_title": "Avengers: Age of Ultron",
+        "poster_path": "https://image.tmdb.org/t/p/original//4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+        "release_date": "2015-04-22",
+        "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth\u2019s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "vote_average": 7.273
+    },
+    {
+        "original_title": "Black Widow",
+        "poster_path": "https://image.tmdb.org/t/p/original//kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+        "release_date": "2021-07-07",
+        "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+        "vote_average": 7.268
+    },
+    {
+        "original_title": "Captain America: Civil War",
+        "poster_path": "https://image.tmdb.org/t/p/original//rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+        "release_date": "2016-04-27",
+        "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+        "vote_average": 7.441
+    },
+    {
+        "original_title": "Guardians of the Galaxy Vol. 2",
+        "poster_path": "https://image.tmdb.org/t/p/original//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+        "release_date": "2017-04-19",
+        "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+        "vote_average": 7.621
+    },
+    {
+        "original_title": "Iron Man 3",
+        "poster_path": "https://image.tmdb.org/t/p/original//qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+        "release_date": "2013-04-18",
+        "overview": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        "vote_average": 6.927
+    },
+    {
+        "original_title": "Eternals",
+        "poster_path": "https://image.tmdb.org/t/p/original//lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+        "release_date": "2021-11-03",
+        "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+        "vote_average": 6.893
+    },
+    {
+        "original_title": "Doctor Strange",
+        "poster_path": "https://image.tmdb.org/t/p/original//uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+        "release_date": "2016-10-25",
+        "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+        "vote_average": 7.425
+    },
+    {
+        "original_title": "Thor",
+        "poster_path": "https://image.tmdb.org/t/p/original//prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+        "release_date": "2011-04-21",
+        "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+        "vote_average": 6.767
+    },
+    {
+        "original_title": "Black Panther",
+        "poster_path": "https://image.tmdb.org/t/p/original//uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+        "release_date": "2018-02-13",
+        "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+        "vote_average": 7.385
+    },
+    {
+        "original_title": "Thor: The Dark World",
+        "poster_path": "https://image.tmdb.org/t/p/original//wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+        "release_date": "2013-10-30",
+        "overview": "Thor fights to restore order across the cosmos\u2026 but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+        "vote_average": 6.53
+    },
+    {
+        "original_title": "The Incredible Hulk",
+        "poster_path": "https://image.tmdb.org/t/p/original//gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+        "release_date": "2008-06-12",
+        "overview": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+        "vote_average": 6.209
+    },
+    {
+        "original_title": "Captain America: The First Avenger",
+        "poster_path": "https://image.tmdb.org/t/p/original//vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+        "release_date": "2011-07-22",
+        "overview": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull \u2013 Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+        "vote_average": 6.998
+    },
+    {
+        "original_title": "Ant-Man",
+        "poster_path": "https://image.tmdb.org/t/p/original//8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg",
+        "release_date": "2015-07-14",
+        "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+        "vote_average": 7.08
+    },
+    {
+        "original_title": "Ant-Man and the Wasp",
+        "poster_path": "https://image.tmdb.org/t/p/original//cFQEO687n1K6umXbInzocxcnAQz.jpg",
+        "release_date": "2018-07-04",
+        "overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+        "vote_average": 6.942
+    },
+    {
+        "original_title": "Captain America: The Winter Soldier",
+        "poster_path": "https://image.tmdb.org/t/p/original//tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+        "release_date": "2014-03-20",
+        "overview": "After the cataclysmic events in New York with The Avengers, Steve Rogers, aka Captain America is living quietly in Washington, D.C. and trying to adjust to the modern world. But when a S.H.I.E.L.D. colleague comes under attack, Steve becomes embroiled in a web of intrigue that threatens to put the world at risk. Joining forces with the Black Widow, Captain America struggles to expose the ever-widening conspiracy while fighting off professional assassins sent to silence him at every turn. When the full scope of the villainous plot is revealed, Captain America and the Black Widow enlist the help of a new ally, the Falcon. However, they soon find themselves up against an unexpected and formidable enemy\u2014the Winter Soldier.",
+        "vote_average": 7.668
+    },
+    {
+        "original_title": "The Guardians of the Galaxy Holiday Special",
+        "poster_path": "https://image.tmdb.org/t/p/original//8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+        "release_date": "2022-11-25",
+        "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+        "vote_average": 7.187
+    },
+    {
+        "original_title": "Guardians of the Galaxy",
+        "poster_path": "https://image.tmdb.org/t/p/original//r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "release_date": "2014-07-30",
+        "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+        "vote_average": 7.907
+    },
+    {
+        "original_title": "Avengers 5",
+        "poster_path": "https://image.tmdb.org/t/p/original//lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
+        "release_date": "2026-04-29",
+        "overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Werewolf by Night",
+        "poster_path": "https://image.tmdb.org/t/p/original//jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg",
+        "release_date": "2022-09-25",
+        "overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader\u2019s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic\u2014a hunt that will ultimately bring them face to face with a dangerous monster.",
+        "vote_average": 7.0
+    },
+    {
+        "original_title": "Spider-Man 4",
+        "poster_path": "https://image.tmdb.org/t/p/original//478aamhXhs4bYHEwqKUFkLLvs8Y.jpg",
+        "release_date": "",
+        "overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "The Fantastic Four",
+        "poster_path": "https://image.tmdb.org/t/p/original//4AGuX3IMPzs3sc3dJrnpLZzGvUa.jpg",
+        "release_date": "2025-07-24",
+        "overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Avengers: Secret Wars",
+        "poster_path": "https://image.tmdb.org/t/p/original//8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+        "release_date": "2027-05-06",
+        "overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Captain America: Brave New World",
+        "poster_path": "https://image.tmdb.org/t/p/original//ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
+        "release_date": "2025-02-12",
+        "overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Groot Takes a Bath",
+        "poster_path": "https://image.tmdb.org/t/p/original//sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+        "release_date": "2022-08-10",
+        "overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you\u2019re a Flora Colossi toddler.",
+        "vote_average": 7.098
+    },
+    {
+        "original_title": "Marvel One-Shot: The Consultant",
+        "poster_path": "https://image.tmdb.org/t/p/original//xqNLXUUvBnfVk6m3QFGGU0Grgs7.jpg",
+        "release_date": "2011-09-13",
+        "overview": "Agent Coulson informs Agent Sitwell that the World Security Council wishes Emil Blonsky to be released from prison to join the Avengers Initiative. As Nick Fury doesn't want to release Blonsky, the two agents decide to send a patsy to sabotage the meeting...",
+        "vote_average": 6.33
+    },
+    {
+        "original_title": "Groot's First Steps",
+        "poster_path": "https://image.tmdb.org/t/p/original//1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+        "release_date": "2022-08-10",
+        "overview": "Following the events of \u201cGuardians of the Galaxy Vol. 1,\u201d Baby Groot is finally ready to try taking his first steps out of his pot\u2014only to learn you have to walk before you can run.",
+        "vote_average": 7.014
+    },
+    {
+        "original_title": "Blade",
+        "poster_path": "https://image.tmdb.org/t/p/original//fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
+        "release_date": "2025-11-05",
+        "overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Marvel Studios: Assembling a Universe",
+        "poster_path": "https://image.tmdb.org/t/p/original//41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
+        "release_date": "2014-03-18",
+        "overview": "A look at the story behind Marvel Studios and the Marvel Cinematic Universe, featuring interviews and behind-the-scenes footage from all of the Marvel films, the Marvel One-Shots and \"Marvel's Agents of S.H.I.E.L.D.\"",
+        "vote_average": 6.9
+    },
+    {
+        "original_title": "Marvel One-Shot: All Hail the King",
+        "poster_path": "https://image.tmdb.org/t/p/original//ozXvopXv1TiOTls8zb09dBmu9dt.jpg",
+        "release_date": "2014-02-04",
+        "overview": "A documentary filmmaker interviews the now-famous Trevor Slattery from behind bars.",
+        "vote_average": 6.748
+    },
+    {
+        "original_title": "Groot's Pursuit",
+        "poster_path": "https://image.tmdb.org/t/p/original//z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
+        "release_date": "2022-08-10",
+        "overview": "Groot investigates a spooky noise that\u2019s been haunting the Quadrant, which leads to an intense dance off.",
+        "vote_average": 7.098
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of The Marvels",
+        "poster_path": "https://image.tmdb.org/t/p/original//9sFICxo3xVJRbTCwvLwGbOShJGP.jpg",
+        "release_date": "2024-02-07",
+        "overview": "Take an intergalactic trip with the cast and crew of \"The Marvels\" as they tell their experiences making this weird and wonderful film. Step into all the departments of production and discover how they created complex fight scenes, countless alien life forms, and some of the most elaborate sets ever. From dance parties to kitten days, the cast and crew had an unforgettable time making the movie.",
+        "vote_average": 5.1
+    },
+    {
+        "original_title": "Marvel One-Shot: Agent Carter",
+        "poster_path": "https://image.tmdb.org/t/p/original//4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
+        "release_date": "2013-09-03",
+        "overview": "The film takes place one year after the events of Captain America: The First Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve, is in search of the mysterious Zodiac.",
+        "vote_average": 7.216
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
+        "poster_path": "https://image.tmdb.org/t/p/original//mYTPKWO7a4mHKLyksJgB8CMq9Qx.jpg",
+        "release_date": "2023-02-08",
+        "overview": "Follow the production of \u201cBlack Panther: Wakanda Forever\u201d as the cast and crew take on the incredible challenge of remembering T\u2019Challa with a chapter befitting the late king. Through intimate behind-the-scenes footage and interviews, watch Shuri take on the mantel of Wakanda\u2019s hero and face a new foe from the ocean\u2019s depths in Namor.",
+        "vote_average": 6.8
+    },
+    {
+        "original_title": "The Little Guy",
+        "poster_path": "https://image.tmdb.org/t/p/original//lPzcizL8PdS2U1q0rfhlVn00b9l.jpg",
+        "release_date": "2022-08-10",
+        "overview": "Groot discovers a miniature civilization that believes the seemingly enormous tree toddler is the hero they\u2019ve been waiting for.",
+        "vote_average": 7.308
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
+        "poster_path": "https://image.tmdb.org/t/p/original//eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
+        "release_date": "2022-07-08",
+        "overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel\u2019s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
+        "vote_average": 7.1
+    },
+    {
+        "original_title": "Magnum Opus",
+        "poster_path": "https://image.tmdb.org/t/p/original//8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+        "release_date": "2022-07-18",
+        "overview": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+        "vote_average": 7.286
+    },
+    {
+        "original_title": "Marvel One-Shot: Item 47",
+        "poster_path": "https://image.tmdb.org/t/p/original//hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
+        "release_date": "2012-09-13",
+        "overview": "Benny and Claire, a down-on-their-luck couple, find a discarded Chitauri weapon referred to as 'Item 47'.",
+        "vote_average": 6.453
+    },
+    {
+        "original_title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+        "poster_path": "https://image.tmdb.org/t/p/original//njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
+        "release_date": "2011-10-25",
+        "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
+        "vote_average": 6.8
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
+        "poster_path": "https://image.tmdb.org/t/p/original//w9rY9CT7pI3pl6ATcAS7bXrIDc5.jpg",
+        "release_date": "2023-09-13",
+        "overview": "Join visionary director James Gunn and superstars such as Chris Pratt and Zoe Salda\u00f1a as they recount how \u201cGuardians of the Galaxy Vol. 3\u201d was conceived, shaped, and delivered to the world. And stand alongside the cast and crew in the emotional final moments of the shoot as they bid farewell to each other, and close this chapter in the saga of Peter Quill and his loveable band of misfit-warriors.",
+        "vote_average": 6.7
+    },
+    {
+        "original_title": "Team Thor: Part 2",
+        "poster_path": "https://image.tmdb.org/t/p/original//9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
+        "release_date": "2017-02-14",
+        "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+        "vote_average": 6.975
+    },
+    {
+        "original_title": "Team Thor",
+        "poster_path": "https://image.tmdb.org/t/p/original//jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg",
+        "release_date": "2016-08-28",
+        "overview": "Discover what Thor was up to during the events of Captain America: Civil War.",
+        "vote_average": 7.3
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Secret Invasion",
+        "poster_path": "https://image.tmdb.org/t/p/original//8YDNwj9gsAQlcHQALPtjJipoGx8.jpg",
+        "release_date": "2023-09-20",
+        "overview": "Through in-depth interviews with cast and crew, and exclusive behind-the-scenes footage, Assembled uncovers how Marvel Studios\u2019 \u201cSecret Invasion\u201d was born. Witness what it took to conjure the world of the show, and spend time with Samuel L. Jackson as he dons the patch once again to engage in the most baffling battle of Nick Fury\u2019s career.",
+        "vote_average": 4.9
+    },
+    {
+        "original_title": "Thunderbolts",
+        "poster_path": "https://image.tmdb.org/t/p/original//dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
+        "release_date": "2025-05-01",
+        "overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "A Fan's Guide to Ms. Marvel",
+        "poster_path": "https://image.tmdb.org/t/p/original//aolMYjs6QWonQFlnRGvU3o5zeQH.jpg",
+        "release_date": "2022-06-01",
+        "overview": "A documentary short that gives you an exclusive look behind the groundbreaking original series, \"Ms. Marvel\", from its comic book origins to its development and production as Marvel Studios\u2019 next hit series on Disney+. It features interviews with its award winning filmmaking team and the show\u2019s captivating star, newcomer Iman Vellani.",
+        "vote_average": 7.061
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
+        "poster_path": "https://image.tmdb.org/t/p/original//yhFN7yvskzm1Tsknkg46eQbQr9w.jpg",
+        "release_date": "2022-11-03",
+        "overview": "Join the likes of Tatiana Maslany, Mark Ruffalo, Tim Roth, and Benedict Wong as they reveal how Marvel Studios\u2019 She-Hulk: Attorney at Law was conceived and shaped. Discover what it took for She-Hulk\u2019s creators to pull off the show\u2019s tricky tone and deliver Marvel Studios\u2019 first truly comedic series \u2013 one that boldly breaks the fourth wall to acknowledge its own audience, no less!",
+        "vote_average": 6.9
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Moon Knight",
+        "poster_path": "https://image.tmdb.org/t/p/original//dM6Y4uLzeF4rqbmKBzR0wAsTxby.jpg",
+        "release_date": "2022-05-25",
+        "overview": "Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios' Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid \"roundtable discussion\" with the series' directors, this \"making-of\" pulls back the curtain on the groundbreaking series of Marvel Studios' newest hero.",
+        "vote_average": 7.2
+    },
+    {
+        "original_title": "Untitled Shang-Chi Sequel",
+        "poster_path": "https://image.tmdb.org/t/p/original//ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
+        "release_date": "",
+        "overview": "Sequel to the 2021 film \u201cShang-Chi and the Legend of the Ten Rings\u201d.",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Echo",
+        "poster_path": "https://image.tmdb.org/t/p/original//q19Po6BjP93r4gaPyWO0lGdErAT.jpg",
+        "release_date": "2024-01-31",
+        "overview": "Join us on a revealing journey behind-the-scenes of Maya Lopez\u2019s own groundbreaking series. Witness how the production took unprecedented steps to portray the deaf experience, and Native American culture truthfully. Spend time with powerhouse actor Vincent D\u2019Onofrio as he brings the Kingpin to monstrous life once again. All this and more waits to be discovered in \"Assembled: The Making of Echo.\"",
+        "vote_average": 5.4
+    },
+    {
+        "original_title": "Team Darryl",
+        "poster_path": "https://image.tmdb.org/t/p/original//edroTAeTEM9ILyAnumA0ALxRSne.jpg",
+        "release_date": "2018-02-20",
+        "overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
+        "vote_average": 6.155
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
+        "poster_path": "https://image.tmdb.org/t/p/original//eb7GP3cttApzilOOM52L129Eaaj.jpg",
+        "release_date": "2022-09-08",
+        "overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder\u2019s fourth feature film.",
+        "vote_average": 7.0
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
+        "poster_path": "https://image.tmdb.org/t/p/original//l4dAm09HoxB5Dbm8IqDfrAKyMkS.jpg",
+        "release_date": "2023-11-22",
+        "overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
+        "vote_average": 7.2
+    },
+    {
+        "original_title": "Peter's To-Do List",
+        "poster_path": "https://image.tmdb.org/t/p/original//2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
+        "release_date": "2019-09-17",
+        "overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
+        "vote_average": 6.828
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Ms. Marvel",
+        "poster_path": "https://image.tmdb.org/t/p/original//6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
+        "release_date": "2022-08-03",
+        "overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
+        "vote_average": 7.1
+    },
+    {
+        "original_title": "Marvel Studios' 2021 Disney+ Day Special",
+        "poster_path": "https://image.tmdb.org/t/p/original//zh0B5DDP93e3zokktb5aHHfIh01.jpg",
+        "release_date": "2021-11-12",
+        "overview": "Explore the Disney+ series of the MCU\u2014past, present and future.",
+        "vote_average": 6.68
+    },
+    {
+        "original_title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
+        "poster_path": "https://image.tmdb.org/t/p/original//xgfnWe9NFXT5o3QndRnU5ylkxyp.jpg",
+        "release_date": "2023-07-19",
+        "overview": "Join cast and crew as they delve deep into the creation of \"Ant-Man and The Wasp: Quantumania.\" Combining immersive behind-the-scenes footage with candid interviews, Assembled reveals how an incredible new world was brought to the screen.",
+        "vote_average": 6.1
+    },
+    {
+        "original_title": "Marvel Studios: Expanding the Universe",
+        "poster_path": "https://image.tmdb.org/t/p/original//dU7qXzttvOUvSlwwpEFQDsLnThK.jpg",
+        "release_date": "2019-11-12",
+        "overview": "An exciting look into the future of Marvel Studios' films and upcoming Disney+ series.",
+        "vote_average": 5.7
+    },
+    {
+        "original_title": "Armor Wars",
+        "poster_path": "https://image.tmdb.org/t/p/original//vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
+        "release_date": "",
+        "overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
+        "vote_average": 0.0
+    },
+    {
+        "original_title": "No Way Home: The More Fun Stuff Version",
+        "poster_path": "https://image.tmdb.org/t/p/original//qrnT2LpqNu5Xy6wZ2VTQGuq4vEb.jpg",
+        "release_date": "2022-09-02",
+        "overview": "The three spider-men return in this more fun extended version of Spider-Man: No Way Home.",
+        "vote_average": 9.0
+    }
+]
